@@ -1,0 +1,15 @@
+{
+  "name": "vk-eternal-online",
+  "version": "1.0.0",
+  "description": "Eternal online for VK",
+  "private": true,
+  "scripts": {
+    "start": "node online.mjs"
+  },
+  "author": "https://github.com/dddoog9",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.0"
+  }
+}
