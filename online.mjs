@@ -25,7 +25,7 @@ async function setOnline() {
 
   const data = await response.json()
 
-  if (!data.response) {
+  if (data.error) {
     throw new Error(data.error.error_msg)
   }
 
