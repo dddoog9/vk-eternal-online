@@ -65,4 +65,4 @@ npm start
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
